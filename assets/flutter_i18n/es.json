@@ -1,0 +1,19 @@
+{
+  "title": "Family App (ES)",
+  "clickedMessage": "Has presionado el botón muchas veces",
+  "label": {
+    "main": "Hola {user}!"
+  },
+  "button": {
+    "label": {
+      "clickMe": "Click aqui!",
+      "language": "Cambiar idioma"
+    },
+    "toastMessage": "Ha presionado un boton"
+  },
+  "clicked": {
+    "times-0": "Ha presionado {times} veces!",
+    "times-1": "Ha presionado {time} vez!",
+    "times-2": "Ha presionado {times} veces!"
+  }
+}
